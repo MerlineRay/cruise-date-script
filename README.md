@@ -1,6 +1,6 @@
 # cruise-date-script
 
-## Script to get cruise arrival and departure dates
+Script to get cruise arrival and departure dates
 
 1. Clone repo
 2. Update months list and year in date formatting
