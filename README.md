@@ -1,7 +1,7 @@
 # cruise-date-script
 
-Script to get cruise arrival and departure dates
+## Script to get cruise arrival and departure dates
 
-Clone repo
-Update months list and year in date formatting
-Save and run python cruise_dates.py to generate csv named cruise_dates_t.csv
+1. Clone repo
+2. Update months list and year in date formatting
+3. Save and run python cruise_dates.py to generate csv named cruise_dates_t.csv
